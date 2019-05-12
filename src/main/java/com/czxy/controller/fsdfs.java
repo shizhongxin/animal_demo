@@ -9,4 +9,7 @@ public class fsdfs {
     String sd="dsfs";
 
     private Integer age;
+    private String name;
+
+
 }
