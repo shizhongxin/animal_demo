@@ -6,4 +6,5 @@ package com.czxy.controller;
  * @description:
  */
 public class fsdfs {
+    String sd="dsfs";
 }
