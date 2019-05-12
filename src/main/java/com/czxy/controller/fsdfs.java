@@ -7,4 +7,6 @@ package com.czxy.controller;
  */
 public class fsdfs {
     String sd="dsfs";
+
+    private Integer age;
 }
